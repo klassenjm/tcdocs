@@ -1,3 +1,1 @@
-:localdir: ./
-
-include::markers:par/p.adoc[]
+include::markers:par/p.adoc[localdir="./"]
