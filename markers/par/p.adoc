@@ -7,6 +7,7 @@
 //endif::[]
 //:imagesdir: {localdir}/images
 
+tag::public[]
 == Summary
 
 Description:: Regular paragraph. Followed by a space and paragraph text, or by a new line and a verse marker.
@@ -61,6 +62,8 @@ and be baptized,” he told the people, “and God will forgive your sins.”
 image::par/p_1.jpg[Mark 1.1-4 (GNT),250]
 
 == Publication Issues
+
+end::public[]
 
 == Discussion
 
