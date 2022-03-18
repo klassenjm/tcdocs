@@ -58,7 +58,7 @@ image::char_usx.svg[]
 and be baptized,” he told the people, “and God will forgive your sins.”
 ----
 
-image::../par/images/p_1.jpg[Mark 1.1-4 (GNT),250]
+image::p_1.jpg[Mark 1.1-4 (GNT),250]
 
 == Publication Issues
 
