@@ -1,7 +1,13 @@
 = \m
 :description: Continuation (margin) paragraph
 :url-repo: https://github.com/usfm-bible/tcdocs/blob/main/markers/par-m.adoc
-:source-highlighter: pygments
+ifndef::localdir[]
+:source-highlighter: highlightjs
+:localdir: ../
+endif::[]
+:imagesdir: {localdir}/images
+
+tag::public[]
 
 == Summary
 
