@@ -1,4 +1,4 @@
 * xref:index.adoc[]
-** xref::par/p.adoc[\p - Paragraph]
+** xref::p.adoc[\p - Paragraph]
 // ** xref:markers:par/m.adoc[\m - Continuation (margin)]
 // ** xref:markers:par/po.adoc[\p - Letter opening]
