@@ -1,8 +1,13 @@
 = \s#
 :description: Section heading
 :url-repo: https://github.com/usfm-bible/tcdocs/blob/main/markers/par-s.adoc
-:source-highlighter: pygments
+ifndef::localdir[]
+:source-highlighter: highlightjs
+:localdir: ../
+endif::[]
+:imagesdir: {localdir}/images
 
+tag::public[]
 == Summary
 
 Description:: Section heading. The variable `#`` represents the level of division.
@@ -40,7 +45,7 @@ out, you will bring back the right answer.
 those who stand helpless in court.
 ----
 
-//image::images/par-s1_1.jpg[Proverbs 22.17 (GNT),250]
+image::par/par-s1_1.jpg[Proverbs 22.17 (GNT),250]
 
 .Proverbs 22.22,24 (GNT)
 [source#src-par-s2_1,usfm,highlight=2;6]
@@ -56,9 +61,11 @@ those who stand helpless in court.
 \v 25 You might learn their habits and not be able to change.
 ----
 
-//image::images/par-s2_1.jpg[Proverbs 22.22-24 (GNT),250]
+image::par/par-s2_1.jpg[Proverbs 22.22-24 (GNT),250]
 
 == Publication Issues
+
+end::public[]
 
 == Discussion
 

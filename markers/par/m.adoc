@@ -37,9 +37,11 @@ of the Law say that the Messiah will be the descendant of David?
 \v 37 David himself called him ‘Lord’; so how can the Messiah be David's descendant?”
 ----
 
-//image::images/par-m_1.jpg[Mark 12.37 (GNT),250]
+image::par/par-m_1.jpg[Mark 12.37 (GNT),250]
 
 == Publication Issues
+
+end::public[]
 
 == Discussion
 

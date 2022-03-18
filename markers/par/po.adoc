@@ -1,7 +1,13 @@
 = \po
 :description: Opening of an epistle/letter
 :url-repo: https://github.com/usfm-bible/tcdocs/blob/main/markers/par-po.adoc
-:source-highlighter: pygments
+ifndef::localdir[]
+:source-highlighter: highlightjs
+:localdir: ../
+endif::[]
+:imagesdir: {localdir}/images
+
+tag::public[]
 
 == Summary
 
@@ -39,9 +45,11 @@ TextProperties:: paragraph, publishable, vernacular
 \po May God our Father and the Lord Jesus Christ give you grace and peace.
 ----
 
-//image::images/par-po_1.jpg[Romans 1.1 and 7 (GNT),500]
+image::par/par-po_1.jpg[Romans 1.1 and 7 (GNT),500]
 
 == Publication Issues
+
+end::public[]
 
 == Discussion
 
