@@ -1,1 +1,3 @@
+:localdir: ./
+
 include::markers:par/p.adoc[]
