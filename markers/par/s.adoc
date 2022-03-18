@@ -40,7 +40,7 @@ out, you will bring back the right answer.
 those who stand helpless in court.
 ----
 
-image::images/par-s1_1.jpg[Proverbs 22.17 (GNT),250]
+//image::images/par-s1_1.jpg[Proverbs 22.17 (GNT),250]
 
 .Proverbs 22.22,24 (GNT)
 [source#src-par-s2_1,usfm,highlight=2;6]
