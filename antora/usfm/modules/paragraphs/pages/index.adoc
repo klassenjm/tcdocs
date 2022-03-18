@@ -1,1 +1,4 @@
 = Paragraphs
+
+// include::markers:par/p.adoc[leveloffset=+1]
+include::markers:par/p.adoc
