@@ -32,8 +32,11 @@ TextProperties:: publishable, vernacular
 [source#src-char-nd_1,usfm,highlight=3]
 ----
 \p
-\v 14 God said, “I am who I am. You must tell them: ‘The one who is called I AM  has sent me to you.’
-\v 15 Tell the Israelites that I, the \nd Lord\nd*, the God of their ancestors, the God of Abraham, Isaac, and Jacob, have sent you to them. This is my name forever; this is what all future generations are to call me.
+\v 14 God said, “I am who I am. You must tell them: ‘The one who is called 
+I AM has sent me to you.’
+\v 15 Tell the Israelites that I, the \nd Lord\nd*, the God of their ancestors, 
+the God of Abraham, Isaac, and Jacob, have sent you to them. This is my name 
+forever; this is what all future generations are to call me.
 ----
 
 image::char/nd_1.jpg[Exodus 3.15 (GNT),300]

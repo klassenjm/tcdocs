@@ -37,8 +37,8 @@ TextProperties:: chapter
 \s1 The Ancestors of Jesus Christ
 \r (Luke 3.23-38)
 \p
-\v 1 This is the list of the ancestors of Jesus Christ, a descendant of David, who was a
-descendant of Abraham.
+\v 1 This is the list of the ancestors of Jesus Christ, a descendant of David, 
+who was a descendant of Abraham.
 ----
 
 image::cv/c_1.jpg[Matthew 1 (GNT),300]
