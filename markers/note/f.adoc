@@ -57,8 +57,8 @@ image::schema/fchar_usx.svg[]
 \v 4 So John appeared in the desert, baptizing and preaching.\f + \fr 1.4 \fq John appeared in the desert, baptizing and preaching\ft ; some manuscripts have \fqa John the Baptist appeared in the desert, preaching.\f* “Turn away from your sins and be baptized,” he told the people, “and God will forgive your sins.”
 ----
 
-image::note/f_1.jpg[Mark 1.1 (caller) (GNT),250]
-image::note/f_2.jpg[Mark 1.1 and 1.4 (note text) (GNT),550]
+image::note/f_1.jpg[Mark 1.1 (caller) (GNT),300]
+image::note/f_2.jpg[Mark 1.1 and 1.4 (note text) (GNT),600]
 
 == Publication Issues
 
