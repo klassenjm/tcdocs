@@ -7,8 +7,8 @@
 
 == Paragraphs
 
-include::par/p.adoc[leveloffset=+1]
+include::../markers/par/p.adoc[leveloffset=+1]
 
 == Notes
 
-include::note/f.adoc[leveloffset=+1]
+include::../markers/note/f.adoc[leveloffset=+1]
