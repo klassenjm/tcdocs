@@ -62,8 +62,7 @@ and be baptized,” he told the people, “and God will forgive your sins.”
 
 [.float-group]
 --
-[.left]
-image::par/p_1.jpg[Mark 1.1-4 (GNT),250]
+image::par/p_1.jpg[Mark 1.1-4 (GNT),250,role=left]
 --
 
 == Publication Issues
