@@ -1,5 +1,5 @@
 * xref:index.adoc[]
-** xref::paragraphs/index.adoc
+** xref::paragraphs/index.adoc[]
 *** xref::paragraphs/p.adoc[\p - Paragraph]
 *** xref::paragraphs/m.adoc[\m - Continuation (margin)]
 *** xref::paragraphs/po.adoc[\p - Letter opening]
