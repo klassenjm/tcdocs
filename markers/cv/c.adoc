@@ -41,7 +41,7 @@ TextProperties:: chapter
 descendant of Abraham.
 ----
 
-image::cv/c_1.jpg[Matthew 1 (GNT),250]
+image::cv/c_1.jpg[Matthew 1 (GNT),300]
 
 == Publication Issues
 
