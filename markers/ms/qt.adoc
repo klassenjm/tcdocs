@@ -1,7 +1,13 @@
 = \qt#-s\* ...\qt#-e\*
 :description: Quotation start / end milestones
-:url-repo: https://github.com/usfm-bible/tcdocs/blob/main/markers/ms-qt.adoc
-:source-highlighter: pygments
+:url-repo: https://github.com/usfm-bible/tcdocs/blob/main/markers/ms/qt.adoc
+ifndef::localdir[]
+:source-highlighter: highlightjs
+:localdir: ../
+endif::[]
+:imagesdir: {localdir}/images
+
+tag::public[]
 
 == Summary
 
@@ -68,6 +74,8 @@ Start and end quotation milestones using `who`, `level`, and `id` attributes.
 NOTE: The `sid` and `eid` attributes in the above example have been formed using a combination of the milestone type and start milestone reference.
 
 == Publication Issues
+
+end::public[]
 
 == Discussion
 

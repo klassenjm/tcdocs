@@ -1,6 +1,6 @@
 = \po
 :description: Opening of an epistle/letter
-:url-repo: https://github.com/usfm-bible/tcdocs/blob/main/markers/par-po.adoc
+:url-repo: https://github.com/usfm-bible/tcdocs/blob/main/markers/par/po.adoc
 ifndef::localdir[]
 :source-highlighter: highlightjs
 :localdir: ../

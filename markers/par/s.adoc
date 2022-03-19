@@ -1,6 +1,6 @@
 = \s#
 :description: Section heading
-:url-repo: https://github.com/usfm-bible/tcdocs/blob/main/markers/par-s.adoc
+:url-repo: https://github.com/usfm-bible/tcdocs/blob/main/markers/par/s.adoc
 ifndef::localdir[]
 :source-highlighter: highlightjs
 :localdir: ../
@@ -8,6 +8,7 @@ endif::[]
 :imagesdir: {localdir}/images
 
 tag::public[]
+
 == Summary
 
 Description:: Section heading. The variable `#`` represents the level of division.

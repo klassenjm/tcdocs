@@ -1,6 +1,6 @@
 = \p
 :description: Regular paragraph
-:url-repo: https://github.com/usfm-bible/tcdocs/blob/main/markers/par-p.adoc
+:url-repo: https://github.com/usfm-bible/tcdocs/blob/main/markers/par/p.adoc
 ifndef::localdir[]
 :source-highlighter: highlightjs
 :localdir: ../
@@ -8,6 +8,7 @@ endif::[]
 :imagesdir: {localdir}/images
 
 tag::public[]
+
 == Summary
 
 Description:: Regular paragraph. Followed by a space and paragraph text, or by a new line and a verse marker.
