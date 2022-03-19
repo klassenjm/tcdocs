@@ -56,8 +56,9 @@ image::schema/char_usx.svg[]
 \q2 ‘Get the road ready for the Lord;
 \q2 make a straight path for him to travel!’”
 \p
-\v 4 So John appeared in the desert, baptizing and preaching. “Turn away from your sins
-and be baptized,” he told the people, “and God will forgive your sins.”
+\v 4 So John appeared in the desert, baptizing and preaching. “Turn away 
+from your sins and be baptized,” he told the people, “and God will forgive 
+your sins.”
 ----
 
 image::par/p_1.jpg[Mark 1.1-4 (GNT),300]
